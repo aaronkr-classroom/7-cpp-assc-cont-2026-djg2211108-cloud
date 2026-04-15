@@ -18,5 +18,14 @@
     <ClCompile Include="word_counter.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="xref.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\6-cpp-library-algorithms-2026-djg2211108-cloud\split_str.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="grammar.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
